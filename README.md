@@ -15,7 +15,7 @@ YouTube: https://youtu.be/fGbetVDJDtw
 3. Change the aspect ratio in line 6 and 7.
 4. Change the fps in line 8.
 
-## Run the programme
+## Run the script
 
 ```bash
 python3 video2ascii.py
