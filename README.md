@@ -2,7 +2,7 @@
 
 ## Result
 
-YouTube: https://youtu.be/fGbetVDJDtw?si=y5HY513eISaDRlfB
+YouTube: https://youtu.be/fGbetVDJDtw
 
 ## Dependency
 
